@@ -1,0 +1,3 @@
+C:/Users/ainbm/CLionProjects/ThreadLifeCycle/cmake-build-debug/CMakeFiles/ThreadLifeCycle.dir
+C:/Users/ainbm/CLionProjects/ThreadLifeCycle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ainbm/CLionProjects/ThreadLifeCycle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
